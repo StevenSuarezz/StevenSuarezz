@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Corellium, Inc. as a Software Engineer**
 
-- 👨‍💻 All of my projects are available on my GitHub or at [stevensuarez.dev](stevensuarez.dev)
+- 👨‍💻 Check out my portfolio website at [stevensuarez.dev](stevensuarez.dev)
 
 - 📫 Contact me at **suarezsteven30@gmail.com**
 
