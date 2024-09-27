@@ -82,8 +82,20 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevensuarezz&show_icons=true&locale=en&layout=compact" alt="stevensuarezz" /></p>
+<!-- Centered Container -->
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevensuarezz&show_icons=true&locale=en" alt="stevensuarezz" /></p>
+  <!-- GitHub Stats and Streak -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=stevensuarezz&show_icons=true&locale=en" alt="GitHub Stats" height="180em" style="margin: 5px;" />
+    <!-- GitHub Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensuarezz" alt="GitHub Streak" height="180em" style="margin: 5px;" />
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevensuarezz&" alt="stevensuarezz" /></p>
+  <!-- Top Languages -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevensuarezz&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180em" />
+  </div>
+
+</div>
